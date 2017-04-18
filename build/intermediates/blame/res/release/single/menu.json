@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/opt/mywork/ican/ican/chatui/build/intermediates/res/merged/release/menu/em_delete_message.xml",
+        "source": "/opt/mywork/ican/ican/chatui/res/menu/em_delete_message.xml"
+    },
+    {
+        "merged": "/opt/mywork/ican/ican/chatui/build/intermediates/res/merged/release/menu/em_remove_from_blacklist.xml",
+        "source": "/opt/mywork/ican/ican/chatui/res/menu/em_remove_from_blacklist.xml"
+    },
+    {
+        "merged": "/opt/mywork/ican/ican/chatui/build/intermediates/res/merged/release/menu/em_context_tab_contact.xml",
+        "source": "/opt/mywork/ican/ican/chatui/res/menu/em_context_tab_contact.xml"
+    },
+    {
+        "merged": "/opt/mywork/ican/ican/chatui/build/intermediates/res/merged/release/menu/em_delete_contact.xml",
+        "source": "/opt/mywork/ican/ican/chatui/res/menu/em_delete_contact.xml"
+    },
+    {
+        "merged": "/opt/mywork/ican/ican/chatui/build/intermediates/res/merged/release/menu/em_context_contact_list.xml",
+        "source": "/opt/mywork/ican/ican/chatui/res/menu/em_context_contact_list.xml"
+    }
+]
