@@ -1,7 +1,8 @@
 # sdkdemoapp3.0_android
 --------
 本demo只是对环信demo的一些扩展，增加了头像保存到本地的方法
-UserInfoCacheSvc 数据库用sqlite来实现的，具体的实现方法参考了环信论坛的头像实现
+UserInfoCacheSvc 数据库用ormsqlite来实现的，需要引用我的另一个库dbutil。具体的实现方法参考了环信论坛的头像实现
+
 
 --------
 ## 简介
